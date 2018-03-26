@@ -16,4 +16,6 @@ Limesurvey 热力图 插件
 1. 插件激活后，在问卷结果也即可看到【热力图】按钮
 
 ## 一些截图
+![](https://raw.githubusercontent.com/wuzhihui1123/nsrc-response-map/master/images/entry_button.jpg)
+
 
