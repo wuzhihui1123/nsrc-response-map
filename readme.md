@@ -5,5 +5,12 @@ Limesurvey 热力图 插件
 
 ## 前提条件
 - 问卷必须开启IP数据记录功能
+- 插件目前只支持LimeSurvey只能是2.x版本
+> Limesurvey 从3.0 版本开始， 插件机制有了不兼容性的改动，因此同一个插件无法在2.x 和 3.x版本间做到互相兼容
+
+## 安装步骤
+1. 下载源码， 然后放入到Limesurvey项目下的插件目录下（ 项目根目录/plugins/ ）
+1. Limesurvey后台 -> 配置 -> 插件管理器  
+1. 激活 REsponseMap 插件
 
 ## 预览图
